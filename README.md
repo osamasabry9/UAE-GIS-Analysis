@@ -1,8 +1,3 @@
-Here's a complete and well-structured **`README.md`** file for your GitHub repository. It explains the project, setup, features, and usage for anyone who wants to run or explore the UAE Administrative Data and Map Visualizations using GeoPandas, Folium, and Matplotlib.
-
----
-
-````markdown
 # 🇦🇪 UAE Administrative Boundaries and Population Visualization
 
 This project provides an interactive and static visualization of the **United Arab Emirates administrative boundaries**, including analysis of **population, area, and density**. It supports both **folium-based maps** and **matplotlib visualizations**, with shapefiles sourced from [Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset/cod-ab-are).
